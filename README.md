@@ -3,6 +3,6 @@ In this project I analyzed project names in Tumblbug(https://tumblbug.com/), whi
 <br>
 According to its results, fail or success, both the content and structure were analyzed. 
 <br>
-* <b>Chrome driver</b> for crawling 
+* <b>Chrome Driver</b> for crawling 
 * <b>KONLPY</b> for analyzing Korean
 * <b>NLTK</b> for analyzing sentential structure 
